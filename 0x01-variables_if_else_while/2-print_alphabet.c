@@ -2,9 +2,7 @@
  * File: 10-print_comb2.c
  * Auth: Brennan D Baraban
  */
-
 #include <stdio.h>
-
 /**
  * main - Prints the numbers from 00 to 99, numbers separated by
  *        a comma followed by a space, in ascending order.
